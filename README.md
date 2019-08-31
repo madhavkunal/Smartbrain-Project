@@ -1,68 +1,21 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Seasons-React-Hooks
+Smartbrain Front-End App with React, CSS & Clarifai Facial Recognition ML API. Coded along with Andrei Neagoie in The Complete Web Developer in 2019: Zero to Mastery Udemy Course (https://www.udemy.com/the-complete-web-developer-zero-to-mastery/).
 
-## Available Scripts
+Steps:
 
-In the project directory, you can run:
+**To Properly Start React App in the Browser:
 
-### `npm start`
+1. Please clone or download this repo on to your desktop
+2. Open up a terminal window and CD into Smartbrain-React-master directory 
+3. Run NPM Install in the terminal window pointing to the Smartbrain-React-master directory { to download npm modules and dependencies (Package.json files are included in repo)}
+4. Run NPM Start in the terminal window pointing to the Smartbrain-React-master directory
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+**To Run Facial Recognition:
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+5. Find a Picture of a Person and 'Copy image address'.
+6. Paste the Image Address into the white textbox (in the middle of the screen) and Click 'Detect' Button
+7. Watch the facial recognition box appear over the person like magic :)
 
-### `npm test`
+**Extra! 
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+8. Hover over the SmartBrain Logo on the top left side of the screen right under the words 'SmartBrain App' and watch the SmartBrain Tilt!
