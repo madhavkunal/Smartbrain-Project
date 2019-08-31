@@ -10,7 +10,7 @@ Steps:
 3. Run NPM Install in the terminal window pointing to the Smartbrain-React-master directory { to download npm modules and dependencies (Package.json files are included in repo)}
 4. Run NPM Start in the terminal window pointing to the Smartbrain-React-master directory
 
-**To Run Facial Recognition:
+**To Run Clarifai's Facial Recognition API:
 
 5. Find a Picture of a Person and 'Copy image address'.
 6. Paste the Image Address into the white textbox (in the middle of the screen) and Click 'Detect' Button
