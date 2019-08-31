@@ -1,4 +1,4 @@
-# Seasons-React-Hooks
+# Smartbrain-React-App
 Smartbrain Front-End App with React, CSS & Clarifai Facial Recognition ML API. Coded along with Andrei Neagoie in The Complete Web Developer in 2019: Zero to Mastery Udemy Course (https://www.udemy.com/the-complete-web-developer-zero-to-mastery/).
 
 Steps:
